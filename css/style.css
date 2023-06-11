@@ -108,6 +108,12 @@ ol {
 	margin: 0;
 }
 
+.responsive{
+	width: 100%;
+	max-width: 100px;
+	height: auto;
+}
+
 /*---------------------
   Helper CSS
 -----------------------*/
