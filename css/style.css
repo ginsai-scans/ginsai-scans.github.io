@@ -113,6 +113,9 @@ ol {
 	max-width: 100px;
 	height: auto;
 }
+.lazy{
+	max-width: 100%;
+}
 
 /*---------------------
   Helper CSS
